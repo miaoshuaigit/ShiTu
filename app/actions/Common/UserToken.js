@@ -1,6 +1,7 @@
 /**
  * Created by Rabbit on 2017/5/23.
  */
+import {Alert} from 'react-native';
 import * as types from '../../constant/ActionTypes';
 import Config from '../../common/Config';
 
